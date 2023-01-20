@@ -7,7 +7,7 @@
 -   Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentino_7504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-m-ade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Valentino_7504) [![Email]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:edwinmbonyjr@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentino_7504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-m-ade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Valentino_7504) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinmbonyjr@gmail.com)
 
 ## Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valentino7504&theme=dark&hide_border=false)<br/>
