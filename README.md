@@ -15,7 +15,7 @@
 ## Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valentino7504&theme=dark&hide_border=false)<br/>
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentino7504&show_icons=true&theme=transparent) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valentino7504&theme=radical&no-frame=false&no-bg=false&margin-w=4)
