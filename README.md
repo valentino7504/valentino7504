@@ -1,10 +1,10 @@
 ## Me!
-- 👋 Hi, I’m Edwin, a Computer Engineering undergrad
-- 👀 I’m interested in Data Science, Artificial Intelligence and Web Development
-- 🌱 I’m currently learning about Data Structures, AI/ML algorithms in Python and jQuery
-- 💞️ I’m looking to collaborate on anything Python or JS based to increase my skill level
-- 📫 How to reach me
--   Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
+👋 Hi, I’m Edwin, a Computer Engineering undergrad  
+👀 I’m interested in Data Science, Artificial Intelligence and Web Development  
+🌱 I’m currently learning about Data Structures, AI/ML algorithms in Python and jQuery  
+💞️ I’m looking to collaborate on anything Python or JS based to increase my skill level  
+📫 How to reach me:  
+Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
 ## Interests
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-Black) 
