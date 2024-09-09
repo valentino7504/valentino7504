@@ -13,7 +13,6 @@ Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentino_7504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-m-ade) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Valentino_7504) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edwinmbonyjr@gmail.com)
 
 ## Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=valentino7504&theme=dark&hide_border=false)<br/>
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentino7504&show_icons=true&theme=transparent) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
