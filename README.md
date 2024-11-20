@@ -17,7 +17,7 @@ Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=valentino7504)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=valentino7504&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 valentino7504/valentino7504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
