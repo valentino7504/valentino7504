@@ -1,8 +1,9 @@
-## Me!
-👋 Hi, I’m Edwin, a Computer Engineering undergrad  
-👀 I’m interested in Data Science, Artificial Intelligence and Web Development  
-🌱 I’m currently learning about Data Structures, AI/ML algorithms in Python and jQuery  
-💞️ I’m looking to collaborate on anything Python or JS based to increase my skill level  
+## whoami
+👋 Hi, I’m Edwin, a Computer Engineering graduate and aspiring Software Engineer.  
+👀 I’m passionate about Web Development, Artificial Intelligence, and Backend Engineering.  
+🌱 I’m currently exploring Data Structures, Algorithms, TypeScript, and web development technologies, including Express.js, Flask, PostgreSQL and NoSQL databases.  
+💻 My current focus is on building scalable backend systems and APIs while honing my skills in Python and JavaScript.  
+🤝 I’m open to collaborating on Python or JavaScript projects, especially those in backend development, full-stack applications, or AI/ML integrations.  
 📫 How to reach me:  
 Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
