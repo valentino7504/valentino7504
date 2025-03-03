@@ -1,9 +1,8 @@
 ## whoami
 👋 Hi, I’m Edwin, a Computer Engineering graduate and aspiring Software Engineer.  
-👀 I’m passionate about Web Development, Artificial Intelligence, and Backend Engineering.  
-🌱 I’m currently exploring Data Structures, Algorithms, TypeScript, and web development technologies, including Express.js, Flask, PostgreSQL and NoSQL databases.  
-💻 My current focus is on building scalable backend systems and APIs while honing my skills in Python and JavaScript.  
-🤝 I’m open to collaborating on Python or JavaScript projects, especially those in backend development, full-stack applications, or AI/ML integrations.  
+👀 I build CLI tools sometimes, APIs, and other web-focused stuff.  
+💻 Trying to be a Gopher lol.  
+🤝 I’m open to collaborating on Python, Go or JavaScript projects, especially those in backend development, full-stack applications, or AI/ML integrations.  
 📫 How to reach me:  
 Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
