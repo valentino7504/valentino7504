@@ -12,7 +12,7 @@ Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
 ## Github Stats
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentino7504&show_icons=true&theme=transparent) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook,html,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino7504&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook,html,shell,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=valentino7504&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
