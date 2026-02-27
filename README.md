@@ -15,7 +15,7 @@ Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[![Top Langs](https://https://github-readme-stats-fast-five.vercel.app/api/top-langs/?username=valentino7504&langs_count=6&layout=compact&theme=transparent&hide=jupyter%20notebook,less,scss,html,shell,css)](https://github.com/valentino7504/github-readme-stats-fast)
+[![Top Langs](https://https://github-readme-stats-fast-five.vercel.app/api/top-langs/?username=valentino7504&langs_count=6&layout=compact&theme=transparent&hide=jupyter%20notebook,less,scss,html,shell,css)](https://github.com/Pranesh-2005/github-readme-stats)
 
 <!---
 valentino7504/valentino7504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
