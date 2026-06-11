@@ -4,8 +4,6 @@
 👀 I build CLI tools sometimes, APIs, and other web-focused stuff.  
 💻 Trying to be a Gopher lol.  
 🤝 I’m open to collaborating on Python, Go or JavaScript projects, especially those in backend development, full-stack applications, or AI/ML integrations.  
-📫 How to reach me:  
-Email: edwinmbonyjr@gmail.com, edwin.ade@stu.cu.edu.ng
 
 ## Interests
 
